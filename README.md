@@ -66,3 +66,20 @@ Simulation results confirmed correct functional behavior under all tested condit
 - Simulation and synthesis tools  
 
 ## Repository Structure
+├── src/        # VHDL source code
+├── docs/       # Project documentation (report)
+└── images/     # Architecture diagrams
+
+## Documentation
+
+The full project report is available here:
+
+- [Project Report](docs/report.pdf)
+
+## Authors
+
+- Lucrezia Maestrello   
+
+## Notes
+
+This project was developed as part of an academic assignment for the Digital Logic Networks course at Politecnico di Milano.
