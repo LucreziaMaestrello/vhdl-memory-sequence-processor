@@ -66,10 +66,11 @@ Simulation results confirmed correct functional behavior under all tested condit
 - Simulation and synthesis tools  
 
 ## Repository Structure
+```
 ├── src/        # VHDL source code
 ├── docs/       # Project documentation (report)
 └── images/     # Architecture diagrams
-
+```
 ## Documentation
 
 The full project report is available here:
